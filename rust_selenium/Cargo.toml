@@ -1,0 +1,8 @@
+[package]
+name = "rust_selenium"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+thirtyfour = "0.32.0-rc.9"
+tokio = { version = "1", features = ["full"] }
